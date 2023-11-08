@@ -1,10 +1,6 @@
 # merge_sort
 ```
-#include <stdio.h>
 #include <iostream>
-#include <algorithm>
-#include <cstdlib>
-#include <cmath>
 using namespace std;
 void merge(int* a, int low, int mid, int hight)  //合并函数
 {

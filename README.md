@@ -1,4 +1,5 @@
 # mkbk
+```
 #include <stdio.h>
 #include <iostream>
 #include <algorithm>
@@ -64,3 +65,4 @@ int main()
 	cout << endl;
 	return 0;
 }
+```
